@@ -33,7 +33,8 @@
 - 자바 버전확인 : java -version
 - 자바c 버전    : javac -version
 
-![image](https://user-images.githubusercontent.com/64408793/165509136-23a52f8c-4e34-4e45-a21b-4cfb476b19d5.png)
+![image](https://user-images.githubusercontent.com/64408793/165657185-c45ad3e4-c661-4dc1-81ac-ed736ee9d884.png)
+
 
 - 자바 나노 편집기 : sudo nano /etc/profile
  자바 설정을 잡아야함
