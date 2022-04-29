@@ -1,0 +1,7 @@
+# 설정에 따라서 properties 를 어떤 파일로 읽어올 지 설정할 수 있다.
+
+### Dspring.profiles.active=dev 혹은 Dspring.profiles.active=produection 으로 config를 설정
+
+#### @PropertySource("classpath:properties/${spring.profiles.active}/info.properties") 로 어떤 profile의 properties를 읽을지 설정한다.
+
+#### @Value("${test}") private String test; 로 properties의 값을 읽을수 있음.
